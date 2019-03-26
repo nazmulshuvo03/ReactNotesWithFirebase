@@ -1,2 +1,0 @@
-# ReactNotesWithFirebase
-Created with CodeSandbox
